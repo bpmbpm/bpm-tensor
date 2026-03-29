@@ -120,7 +120,39 @@ Fₜ₊₁ = G(Fₜ, Iₜ | Tₚ)
 - P' - output T
 - P - input T
 
-Мы получили формулу для ручного процесса. 
+Мы получили формулу для ручного процесса. Лучше использовать некий эквивалент "силы" и в нем показать "инструментальную составляющую" AS - автоматизированные системы (АРМ), а также станки \ tools и т.п. Поэтому вероятностная составляющая будет включать кроме человеческого фактора и риска форс-мажора \ стихий и отказы ИТ-систем.  
+
+Собственно, на схемах EPC, VAD / VSM добавленная стоимость (качество, ценность) и есть пошаговый переход от P к P’, т.е. на выходе процесса (бизнес-процесса) – продукт (результат процесса)
+
+##### End 1.1.3.3 questions
+Видимо можно указанные выше формулы усложнить и "упаковать" в тензорное (или иное) счисление? Касательно формализма workflow показал так: [WF2M сеть. Формализм и математика workflow](https://habr.com/ru/articles/781124/) и [Формализация WF2M сети на примере алгоритма Кофе-машина и два ученых](https://habr.com/ru/articles/789570/)
+
+Только формализм workflow - куда проще формализма процесса процесса он же действие, активность \ задача (BPMN), функция (ARIS \ IDEF). Он же деятельность ... и возвращаемся к формуле (1).
+
+Вопросы к (1). 
+- "управляющие воздействия" - что это и почему не в составе F?
+- "контекст" - внешнее окружение или еще и внутренние условия - или внутренние уже в составе "текущее состояние системы"?
+
+Хорошо бы простые примеры применения формулы. Также картинку какую-либо, типа     
+```
+flowchart TD
+    U[U - управляющие воздействия] -->X[X - текущее состояние системы] 
+    C[C - контекст] -->X[X - текущее состояние системы] 
+```
+Ставим тег mermaid и эти строчки предвращаются в схему:
+``` mermaid
+flowchart TD
+    U[U - управляющие воздействия] -->X[X - текущее состояние системы] 
+    C[C - контекст] -->X[X - текущее состояние системы] 
+```  
+Кстати, так я рисую EPC
+[function EPC](https://mermaid.live/edit#pako:eNqFVN1u0zAYfRXLkxBIaVenTdpmaBcwuOOGTUKi7UWWOGu0NK6chK30R1snkCYmesMFV0jwBGUwMfbTvYL9RthJmmzt0HyRfF98vvMdH9vpQ4vYGBoQAMcje1bbpCHYetb0gRhBtL1DzW4b7BG6K6dB400atRKEHLZLsRW6xM_q5HjxDvsh6vfZdzZjP_knPmbn7AyBp9t0HQShaDMcgkJhHbyM_LgaNdg3dsPO-AGb8o_snE9QKwbETOoik5owOa7vBu3hMGmMfTsJFvTbxErkbyTBg-oFLurIBTRW2RfR9oIfsSt2xq75GK22lnHqMk6d4xZE5aoo8TBovJbPR2CLEO9BWRKLHjfYV34orJqxS3YtjBqLhpf8BLWe5MjNXhDiDmoILPtREPBzfhgDr9gUtfJGaZBpnDs1Go3ynUmmskMg56T226vKDAOFYmF9wE75B6HvN5_wY7FbfyVvsmHsD5uyX2wmxMzYKbtg08FioyxNuaT0_7HdiOMiZ46E9eNBvh_3MYGYam4cn4izNhbUk0Hi6_0l_BDEFVdC8jE_4Z-BUHAtzeQH-WbLVaSWJzSWZwZBegmU5AQDLF9rt-cz15RMuFxbHN0B5qqcNFq77X4M2sBO0kJcCs8zVhzHEkMJQkp2sbFi69u6pqdpYc-1w7ahdvfXFhjm_CkJRo6GUUZSsUxHKy2RKHTfqCm0Z9QW6earSeks644mTdOWBUEF7lDXhkZII6zADqYdU6awL7mbMGzjDm5CQ4Q2dszIC5uw6Q9FWdf03xLSmVdSEu20oeGYXiCyqGubId5wTXH5MogZhWSz51vzHNtuSOir5JcY_xkFjbgcmD4nkR9CQ4u7QKMP96GBNK1YLVfqek2r6DqqopoCe-JzuaiX1GpNLZeqdVWtDRX4PpZVKlbqtVJdRdWKVi6V1Hp5-A-Bdx4j)
+
+ ##### 1.1.3.4 Telos
+Телос и намерения. Цели \ целеполагание.  
+Телос - как Назначение чего? Текущей системы \ устройства (организации) или цель перед системой (организацией)?  
+Это к вопросу Забивать гвозди микроскопом?  Т.е. цели - то будут выполнены, но не оптимальным способом. С другой стороны - задача выполняется и результат (продукт) есть ("гвоздь забит").  
+
 
 Заканчивать будем на оптимистической ноте:  
 ```
