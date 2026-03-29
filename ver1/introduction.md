@@ -138,7 +138,8 @@ Fₜ₊₁ = G(Fₜ, Iₜ | Tₚ)
 - "контекст" - внешнее окружение или еще и внутренние условия - или внутренние уже в составе "текущее состояние системы"?
 - под Системой понимается Компания? 
   
-Хорошо бы простые примеры применения формулы. Также картинку какую-либо, типа (показана техника отрисовки *код схемы \ тег mermaid \ online+URL с кодом схемы*)    
+Хорошо бы простые примеры применения формулы. Также картинку какую-либо, типа (показана техника отрисовки *код схемы \ тег mermaid \ online+URL с кодом схемы*):  
+код схемы   
 ```
 flowchart TD
     U[U - управляющие воздействия] --> X[X - текущее состояние системы] 
@@ -150,7 +151,7 @@ flowchart TD
     U[U - управляющие воздействия] --> X[X - текущее состояние системы] 
     C[C - контекст] --> X[X - текущее состояние системы] 
 ```
-Ссылка на схему 
+Ссылка на схему (online+URL с кодом схемы)
 [mermaid.live/edit](https://mermaid.live/edit#pako:eNqlkM1OAjEUhV-lueuBMHR-mC7cwNaVkhAZFg1TfhJmSmonioREYGVM5FWMcSKi4Cu0b-RlUF_ArnpO73dOc-fQl4kABoOJvOmPuNLkshVnBE-72yYVYtfmy96bZ_NiPuzGPtkHszUFQXkwb-bVFObdLu0K9dZueqRSOSOdbucIrvBtZ9cIFAjYpTmUgwe7MfsyA61taRXm0z72yKm22W0ibXaYv__JwJn_JYMDQzVOgGmVCwdSoVJ-lDA_dsagRyIVMTC8JmLA84mOIc4WiE15diVl-ksqmQ9HwAZ8co0qnyZci9aYDxVP_1yea3kxy_q_jEjGWqrz05rLbWOOyBKhmjLPNLC655dFwOZwi9INq9SldRp6bhi6tcCBGbDIrfoB9annR0HDC-jCgbvyY7VqSAO0Qhr5jSiI3PriG7YuyhA)
 
 Кстати, так я рисую EPC
