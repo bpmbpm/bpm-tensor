@@ -136,15 +136,18 @@ Fₜ₊₁ = G(Fₜ, Iₜ | Tₚ)
 Хорошо бы простые примеры применения формулы. Также картинку какую-либо, типа     
 ```
 flowchart TD
-    U[U - управляющие воздействия] -->X[X - текущее состояние системы] 
-    C[C - контекст] -->X[X - текущее состояние системы] 
+    U[U - управляющие воздействия] --> X[X - текущее состояние системы] 
+    C[C - контекст] --> X[X - текущее состояние системы] 
 ```
-Ставим тег mermaid и эти строчки предвращаются в схему:
+Ставим тег `mermaid` и эти строчки предвращаются в схему:
 ``` mermaid
 flowchart TD
-    U[U - управляющие воздействия] -->X[X - текущее состояние системы] 
-    C[C - контекст] -->X[X - текущее состояние системы] 
-```  
+    U[U - управляющие воздействия] --> X[X - текущее состояние системы] 
+    C[C - контекст] --> X[X - текущее состояние системы] 
+```
+Ссылка на схему 
+[mermaid.live/edit](https://mermaid.live/edit#pako:eNqlkM1OAjEUhV-lueuBMHR-mC7cwNaVkhAZFg1TfhJmSmonioREYGVM5FWMcSKi4Cu0b-RlUF_ArnpO73dOc-fQl4kABoOJvOmPuNLkshVnBE-72yYVYtfmy96bZ_NiPuzGPtkHszUFQXkwb-bVFObdLu0K9dZueqRSOSOdbucIrvBtZ9cIFAjYpTmUgwe7MfsyA61taRXm0z72yKm22W0ibXaYv__JwJn_JYMDQzVOgGmVCwdSoVJ-lDA_dsagRyIVMTC8JmLA84mOIc4WiE15diVl-ksqmQ9HwAZ8co0qnyZci9aYDxVP_1yea3kxy_q_jEjGWqrz05rLbWOOyBKhmjLPNLC655dFwOZwi9INq9SldRp6bhi6tcCBGbDIrfoB9annR0HDC-jCgbvyY7VqSAO0Qhr5jSiI3PriG7YuyhA)
+
 Кстати, так я рисую EPC
 [function EPC](https://mermaid.live/edit#pako:eNqFVN1u0zAYfRXLkxBIaVenTdpmaBcwuOOGTUKi7UWWOGu0NK6chK30R1snkCYmesMFV0jwBGUwMfbTvYL9RthJmmzt0HyRfF98vvMdH9vpQ4vYGBoQAMcje1bbpCHYetb0gRhBtL1DzW4b7BG6K6dB400atRKEHLZLsRW6xM_q5HjxDvsh6vfZdzZjP_knPmbn7AyBp9t0HQShaDMcgkJhHbyM_LgaNdg3dsPO-AGb8o_snE9QKwbETOoik5owOa7vBu3hMGmMfTsJFvTbxErkbyTBg-oFLurIBTRW2RfR9oIfsSt2xq75GK22lnHqMk6d4xZE5aoo8TBovJbPR2CLEO9BWRKLHjfYV34orJqxS3YtjBqLhpf8BLWe5MjNXhDiDmoILPtREPBzfhgDr9gUtfJGaZBpnDs1Go3ynUmmskMg56T226vKDAOFYmF9wE75B6HvN5_wY7FbfyVvsmHsD5uyX2wmxMzYKbtg08FioyxNuaT0_7HdiOMiZ46E9eNBvh_3MYGYam4cn4izNhbUk0Hi6_0l_BDEFVdC8jE_4Z-BUHAtzeQH-WbLVaSWJzSWZwZBegmU5AQDLF9rt-cz15RMuFxbHN0B5qqcNFq77X4M2sBO0kJcCs8zVhzHEkMJQkp2sbFi69u6pqdpYc-1w7ahdvfXFhjm_CkJRo6GUUZSsUxHKy2RKHTfqCm0Z9QW6earSeks644mTdOWBUEF7lDXhkZII6zADqYdU6awL7mbMGzjDm5CQ4Q2dszIC5uw6Q9FWdf03xLSmVdSEu20oeGYXiCyqGubId5wTXH5MogZhWSz51vzHNtuSOir5JcY_xkFjbgcmD4nkR9CQ4u7QKMP96GBNK1YLVfqek2r6DqqopoCe-JzuaiX1GpNLZeqdVWtDRX4PpZVKlbqtVJdRdWKVi6V1Hp5-A-Bdx4j)
 
