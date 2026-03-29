@@ -1,6 +1,6 @@
 ### 1 Intro
 "Концепция тензорного описания бизнеса", 16 марта 2026 года. Ver.0.3. Сборка предварительных материалов. См. https://github.com/bpmbpm/bpm-tensor/tree/main/base  
-Предварительные замечания к "Концепция тензорного описания бизнеса". Однако вначале проговорим: "Причем тут тензор?" и Короткий текст из tg [Maxim's answer](https://github.com/bpmbpm/bpm-tensor/blob/main/ver1/introduction.md#maxims-answer).
+Предварительные замечания к "Концепция тензорного описания бизнеса". Однако вначале проговорим: "Причем тут тензор?" и Короткий / вводный текст из tg [Maxim's answer](https://github.com/bpmbpm/bpm-tensor/blob/main/ver1/introduction.md#maxims-answer).
 
 ### 1.1 Tensor?
 Предварительно обсуждение из tg
