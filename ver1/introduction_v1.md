@@ -2,7 +2,7 @@
 "Концепция тензорного описания бизнеса", 16 марта 2026 года. Ver.0.3. Сборка предварительных материалов. См. https://github.com/bpmbpm/bpm-tensor/tree/main/base  
 Предварительные замечания к "Концепция тензорного описания бизнеса". Однако вначале проговорим: "Причем тут тензор?" и Короткий / вводный текст из tg [Maxim's answer](https://github.com/bpmbpm/bpm-tensor/blob/main/ver1/introduction.md#maxims-answer) и его [Tensor%20%20approach.pdf](https://github.com/bpmbpm/bpm-tensor/blob/main/base/materials/Tensor%20%20approach.pdf).
 
-### 1.1 Tensor?
+### 1.1 Tensor & Tensor approach
 Предварительное обсуждение из tg "Тензоры и бизнес"
 #### 1.1.1 Предложения
 Все же хорошо бы:
@@ -222,3 +222,6 @@ flowchart TD
 Будь он параллелепипед,  
 Будь он круг …  
 ```
+### 1.2 Concept_file
+"Концепция тензорного описания бизнеса"
+
