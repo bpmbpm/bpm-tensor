@@ -10,5 +10,5 @@
 
 ### history
 История размышлений
-- Первичный запрос: https://github.com/bpmbpm/bpm-tensor/issues/1 и ответ https://github.com/bpmbpm/bpm-tensor/pull/2, Model: MiniMax M2.5 Free (opencode/minimax-m2.5-free) 
+1. Первичный запрос: https://github.com/bpmbpm/bpm-tensor/issues/1 и ответ https://github.com/bpmbpm/bpm-tensor/pull/2, Model: MiniMax M2.5 Free (opencode/minimax-m2.5-free) 
 
