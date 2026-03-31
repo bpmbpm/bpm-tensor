@@ -182,7 +182,7 @@ flowchart TD
     Ut --> F1
     Ct --> F1
     
-    Xt --> Xtp1[X_{t+1} - Новое состояние]
+    Xt --> Xtp1[X_t+1] - Новое состояние]
     Xtp1 --> Decision{Остановиться?}
     
     Decision -->|Нет| F1
@@ -191,7 +191,7 @@ flowchart TD
     style F1 fill:#f9f,stroke:#333,stroke-width:2px
     style Xt fill:#bbf,stroke:#333,stroke-width:2px
 ```
-
+Изначально `Xt --> Xtp1[X_{t+1} - Новое состояние]` - ошибка, замена на X_t+1]
 ## 6. Преимущества и недостатки подхода
 
 ### 6.1. Преимущества
