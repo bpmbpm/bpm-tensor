@@ -7,6 +7,7 @@
   - Первичное обсуждение: https://github.com/bpmbpm/bpm-tensor/blob/main/ver1/introduction_v1.md 
 - org организационные методички по ведению проекта
   - [project_design](https://github.com/bpmbpm/bpm-tensor/blob/main/org/project_design.md) 
+- в последствии задействуем https://github.com/bpmbpm/bpm-tensor/wiki и другие фишки github
 
 ### history
 История размышлений
