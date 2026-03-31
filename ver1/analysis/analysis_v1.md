@@ -191,7 +191,9 @@ flowchart TD
     style F1 fill:#f9f,stroke:#333,stroke-width:2px
     style Xt fill:#bbf,stroke:#333,stroke-width:2px
 ```
+Технические проблемы github mermaid  
 Изначально `Xt --> Xtp1[X_{t+1} - Новое состояние]` - ошибка, замена на X_t+1, т.к. {} - элементы синтаксима mermaid (ИИ этого не знает?)
+
 ## 6. Преимущества и недостатки подхода
 
 ### 6.1. Преимущества
