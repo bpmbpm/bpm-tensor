@@ -7,5 +7,5 @@
 - если иллюстрации в pgn, svg, jpg и т.п., то добавляем папку pic и там размещаем со ссылкой на вложенную папку (pic).     
 
 ### publish
-В итоге можно оофрмить через github Pages, github.io как тут:
+В итоге можно офрмить через github Pages, github.io как тут:
 - https://konstantinklepikov.github.io/allposts/ 
