@@ -10,3 +10,6 @@
 Посмотрел несколько серий типа: [Тензоры 00. Eigenchris. Определение тензоров]( https://youtu.be/v7vrNVWUuac?list=PLy2X01FQZUE4U35yNfOqIPhOqNxzYLC-M) и
 - [GFDM и тензоры. Продолжение](https://habr.com/ru/articles/369925/)
 - [Tensor Basics](https://www.cs.ubc.ca/labs/lci/mlrg/slides/20201007.pdf)  
+
+### also
+- https://github.com/bpmbpm/doc/blob/main/math/term.md
