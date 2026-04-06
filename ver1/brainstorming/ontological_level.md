@@ -97,27 +97,27 @@ $$
 
 * Экономика:
 
-  $$
-  T_{money, goods}
-  $$
+$$
+T_{money, goods}
+$$
 
 * Политика:
 
-  $$
-  T_{power, control}
-  $$
+$$
+T_{power, control}
+$$
 
 * Психология:
 
-  $$
-  T_{beliefs, эмоции}
-  $$
+$$
+T_{beliefs, эмоции}
+$$
 
 * Лингвистика:
 
-  $$
-  T_{symbols, meaning}
-  $$
+$$
+T_{symbols, meaning}
+$$
 
 ---
 
