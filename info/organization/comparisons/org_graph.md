@@ -391,7 +391,7 @@ flowchart TB
         TCE[Трансакционные издержки - Coase, Williamson]
         PE[Популяционная экология - Hannan, Freeman]
         NT[Сетевая теория - Granovetter, Burt]
-        LATOUR[Latour - акторно-сетевая теория (ANT)<br/>Люди и артефакты как актанты]
+        LATOUR[Latour - акторно-сетевая теория, ANT<br/>Люди и артефакты как актанты]
     end
 
     subgraph COMPLEX [Сложность и хаос]
