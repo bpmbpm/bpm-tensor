@@ -228,6 +228,7 @@ flowchart TB
     AT --> EVA
     OL --> SECI
     AMC --> DC
+
 ```
 
 ## Пояснение к структуре графа
