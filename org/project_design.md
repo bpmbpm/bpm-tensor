@@ -9,3 +9,23 @@
 ### publish
 Итог можно оформить через github Pages, github.io как тут:
 - https://konstantinklepikov.github.io/allposts/ 
+
+### formula
+часто ИИ делает:
+```
+[
+z=x+y
+]
+```
+для github нужно 
+```
+$$
+z=x+y
+$$
+```
+$$ - до и после строка  
+или 
+$z=x+y$
+
+### mermaid
+частая ошибка - в нащзвании стоит ( ), т.е. mermaid это понимает как собственный символ 
